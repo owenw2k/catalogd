@@ -1,4 +1,4 @@
-# Catalog
+# Catalogd
 
 Video Game Tracking App Similar to Letterboxd, Goodreads, and Beli.
 
