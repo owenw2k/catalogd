@@ -1,0 +1,16 @@
+{
+  "name": "frontend",
+  "workspaces": [
+    "apps/*",
+    "libs/*"
+  ],
+  "author": "Owen Wolman",
+  "contributors": [
+  ],
+  "license": "ISC",
+  "description": "Frontend for catalogd, includes web version, mobile version, and shared utilities.",
+  "scripts": {
+    "web": "npm run dev --workspace=web",
+    "mobile": "npm run start --workspace=mobile"
+  }
+}
