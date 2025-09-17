@@ -5,8 +5,9 @@
     "libs/*"
   ],
   "author": "Owen Wolman",
-  "contributors": [
-  ],
+  "contributors": [],
+  "type": "module",
+  "private": true,
   "license": "ISC",
   "description": "Frontend for catalogd, includes web version, mobile version, and shared utilities.",
   "scripts": {

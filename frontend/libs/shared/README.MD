@@ -1,0 +1,1 @@
+Shared utils and types for frontend layer kept here
